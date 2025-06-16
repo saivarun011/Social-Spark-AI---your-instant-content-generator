@@ -1,15 +1,9 @@
 venv/
-
 .venv/
-
-pycache/
-
+__pycache__/
 *.рус
-
 .env
-
 .DS_Store
-
 *.log
-
 ollama_models/
+*.md
