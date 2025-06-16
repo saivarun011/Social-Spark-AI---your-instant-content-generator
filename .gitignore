@@ -1,0 +1,15 @@
+venv/
+
+.venv/
+
+pycache/
+
+*.рус
+
+.env
+
+.DS_Store
+
+*.log
+
+ollama_models/
